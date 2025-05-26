@@ -3,6 +3,7 @@
 <p align="center">
   <b>Discord Bot Developer • UI Designer • Tech Explorer</b><br>
   <i>Building advanced Discord systems with style and structure.</i>
+  <i>My Discord Server 736486831083749406</i>
 </p>
 
 ---
@@ -35,7 +36,7 @@
 ### Socials
 <p>
   <a href="https://github.com/ZeonXq"><img src="https://img.shields.io/badge/GitHub-ZeonXq-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-ZeonXq-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.com/users/736486831083749406"><img src="https://img.shields.io/badge/Discord-Zeon.sls-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ---
