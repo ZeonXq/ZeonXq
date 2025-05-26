@@ -3,7 +3,7 @@
 <p align="center">
   <b>Discord Bot Developer • UI Designer • Tech Explorer</b><br>
   <i>Building advanced Discord systems with style and structure.</i>
-  <i>My Discord Server 736486831083749406</i>
+  <i>My Discord Server https://discord.gg/cFq2W8evdX</i>
 </p>
 
 ---
