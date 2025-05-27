@@ -45,7 +45,7 @@
 
 ## 🔧 Featured Project
 - 🛡️ [`discord-moderation_bot`](https://github.com/ZeonXq/discord-moderation_bot)  
-- 🛡️ [`discord-ticket_bot`](https://github.com/ZeonXq/discord-ticket_bot)  
+- 🎟️ [`discord-ticket_bot`](https://github.com/ZeonXq/discord-ticket_bot)  
 
 ---
 
