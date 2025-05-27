@@ -45,7 +45,7 @@
 
 ## 🔧 Featured Project
 - 🛡️ [`discord-moderation_bot`](https://github.com/ZeonXq/discord-moderation_bot)  
-  Advanced moderation bot with slash commands, logging, mutes, warns and more.
+- 🛡️ [`discord-ticket_bot`](https://github.com/ZeonXq/discord-ticket_bot)  
 
 ---
 
