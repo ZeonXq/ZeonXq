@@ -2,13 +2,13 @@
 
 <p align="center">
   <b>Discord Bot Developer • UI Designer • Tech Explorer</b><br>
-  <i>Building advanced Discord systems with style and structure.</i>
-  <i>My Discord Server https://discord.gg/cFq2W8evdX</i>
+  <i>Building advanced Discord systems with style and structure.</i><br>
+  <a href="https://discord.gg/cFq2W8evdX"><i>My Discord Server</i></a>
 </p>
 
 ---
 
-- 🛠 Building advanced discord bots
+- 🛠 Building advanced Discord bots
 
 ---
 
